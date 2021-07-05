@@ -7,10 +7,10 @@ Il s'agit d'une competition Kaggle (House Price Regression), dans laquelle j'ai 
 
 ## **Qu'est ce que j'ai appris ?**
 
-- Perfectionner mes compétence en nettoyage et transformation de donner**,** travailler avec une dataset imposant nécessitant beaucoup de nettoyage de données
-- Découverte et perfectionnement de techniques de features engineering pour améliorer la performance de mon modèle ****
-- Mise en place d'un check list pour améliorer mon workflow et être plus organisé dans mon projet
-- Amelioration de ma librairie personnelle afin de comparer les différents modèles
+- **Perfectionner mes compétence en nettoyage et transformation de données** travailler avec une dataset imposant nécessitant beaucoup de nettoyage de données
+- **Perfectionnement de techniques de features engineering** pour améliorer la performance de mon modèle ****
+- **Mise en place d'un check list** pour améliorer mon workflow et être plus organisé dans mon projet
+- **Amelioration de ma librairie** personnelle afin de comparer les différents modèles
 
 ## **Pourquoi ce projet ?**
 
