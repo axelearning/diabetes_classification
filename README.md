@@ -1,19 +1,19 @@
 # House Prices - Advanced Regression Techniques
-à travers ce projet, j'ai implémenté  un modèle de machine learning qui prédit le prix de vente d'une maison suivant 79 caractéristiques.   
+Through this project, I implemented a machine learning model that predicts the selling price of a house according to 79 characteristics.   
 
-Il s'agit d'une competition Kaggle (House Price Regression), dans laquelle j'ai fini dans le premier quart des participants  avec plus de 4000 inscrits(presque top 26%).
+This is a Kaggle competition (House Price Regression), in which I finished in the first quarter  with more than 4000 entries (almost top 26%).
+<br>
 
-### **👉 Description de la competition**
+## What did I learn?
 
-## **Qu'est ce que j'ai appris ?**
+- **Developed my data cleansing and transformation skills** Working with a large dataset requiring a lot of data cleansing
+- **Refined feature engineering techniques** to improve the performance of my model 
+- **Built a checklist** to improve my workflow and be more organized in my project
+- **Improved my personal library** to compare different models
+<br>
 
-- **Perfectionner mes compétences en nettoyage et transformation de données** travailler avec un dataset imposant nécessitant beaucoup de nettoyage de données
-- **Perfectionnement de techniques de features engineering** pour améliorer la performance de mon modèle 
-- **Mise en place d'une check list** pour améliorer mon workflow et être plus organisé dans mon projet
-- **Amelioration de ma librairie** personnelle afin de comparer les différents modèles
+## Why this project?
+to improve my skills and have a better understanding of how classical regression models work I used the book Introduction to statistical learning to understand in depth and tune my models.  
+<br>
 
-## **Pourquoi ce projet ?**
-
-pour perfectionner mes compétences et avoir une meilleure comprehension du fonctionnement des modèles de régression classique j'ai utilisé le livre Introduction to statistical learning pour comprendre en profondeur et tuner mes modèles.  
-
-### **👉 Mon travail**
+### **👉 My work**
